@@ -13,6 +13,7 @@ Repare the lists from each linear equations and assign in np.array()
 Using the np.linalg.inv(), We can find the inverse of the given matrix
 ### Step 4: 
 End the progaram
+
 ## Program:
 ```
 #Program to find the inverse of a matrix.
@@ -24,8 +25,10 @@ inverse=np.linalg.inv(matrix)
 print(inverse)
 ```
 
+
 ## Output:
 ![Screenshot 2024-12-13 163558](https://github.com/user-attachments/assets/74bb3785-e6a1-44ed-86f6-017cca7cae94)
+
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
