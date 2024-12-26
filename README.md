@@ -27,8 +27,8 @@ print(inverse)
 
 
 ## Output:
-![Screenshot 2024-12-13 163558](https://github.com/user-attachments/assets/74bb3785-e6a1-44ed-86f6-017cca7cae94)
 
+![alt text](<Screenshot 2024-12-26 135954.png>)
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
